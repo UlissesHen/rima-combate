@@ -1,0 +1,7 @@
+{
+  "name": "rimaCombate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
